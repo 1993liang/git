@@ -5,4 +5,3 @@ clean git all code
 update git will is me
 thiry update file,because this is group
 this is git add not commit then add file
-this is commit but will reset
