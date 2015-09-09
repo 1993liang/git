@@ -1,21 +1,2 @@
 ﻿Git is a version control system.
 Git is my free sffffoftware
-update this file will push to master
-but this not to mary wenzi
-分布式版本系统的最大好处之一是在本地工作完全不需要考虑远程库的存在，也就是有没有联网都可以正常工作，而SVN在没有联网的时候是拒绝干活的！当有网络的时候，
-再把本地提交推送一下就完成了同步，真是太方便了！
-<<<<<<< HEAD
-Creating a new branch is quick.
-Creating a new branch is quick.
-Git is a version control system.
-Git is my free sffffoftware
-再把本地提交推送一下就完成了同步，真是太方便了！
-update this file will push to master
-but this not to mary wenzi
-分布式版本系统的最大好处之一是在本地工作完全不需要考虑远程库的存在，也就是有没有联网都可以正常工作，而SVN在没有联网的时候是拒绝干活的！当有网络的时候，
-再把本地提交推送一下就完成了同步，真是太方便了！
-=======
-Git is a version control system.
-Git is my free sffffoftware
-update this file will push to master
->>>>>>> dev
